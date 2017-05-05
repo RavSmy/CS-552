@@ -1,4 +1,4 @@
-// CS 552, LAB #6, Ravela Smyth
+// CS 552, LAB #6, Ravela Smyth  http://www.coderslexicon.com/parts-1-3-of-product-inventory-project/
 
 import java.util.*;
 import java.io.*;
